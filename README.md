@@ -11,7 +11,7 @@ The **Agricultural Off-Road Dataset** provides RGB images of unstructured agricu
 
 ## Data Collection and Annotation
 
-Images were collected during the 2025 summer and autumn harvest seasons in **Lianyungang (Jiangsu), Qingdao (Shandong), and Luoyang (Henan), China**. An RGB camera mounted on the roof of a combine harvester captured forward-facing field-road scenes. Following camera calibration, distortion correction, and cropping, images have a resolution of **1534 × 588 pixels**.
+Images were collected during the 2025 summer and autumn harvest seasons in **Lianyungang (Jiangsu), Qingdao (Shandong), and Luoyang (Henan), China**. An RGB camera mounted on the roof of a combine harvester captured forward-facing field-road scenes.
 
 The scenes include unpaved and paved roads, field entrances and exits, varied lighting (normal, low, and strong illumination), and different degrees of dust contamination. The annotations cover the following semantic categories: **road, buffer road, crop area, ditch, harvester header, agricultural machinery vehicle, farmer, vegetation, tree trunk, other obstacles, and uncertain/unreachable area**. Annotations were prepared using CVAT.
 
